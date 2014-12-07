@@ -14,5 +14,5 @@ ioQ3 for UrT42 modification.
 * weapon names: knife, beretta, de, spas12, mp5, ump45, gl, lr300, g36, psg1, he, smoke, sr8, ak103, bomb, negev, m4, g18, colt, mac11
 
 ## Support
-For anything else, see 'README' at the repo root. You can also report any bug or suggestions at Pr3acher777h@gmail.com.
+For anything else, see 'README' at the repo root. You can also report any bug or suggestions by simply opening an issue here.
 
