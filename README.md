@@ -9,7 +9,7 @@ ioQ3 for UrT42 modification.
 * Server command `setkills <player> <[+|-|]kills>` Set or add/rm (+|-) kills to a player.
 * Server command `setdeaths <player> <[+|-|]deaths>` Set or add/rm (+|-) deaths to a player.
 * Server command `su <player> <cmd> [<opt_arg0> <opt_arg1> ...]` Makes a player execute a command.
-* Server command `giveitem <player> <item>` Makes a player execute a command.
+* Server command `giveitem <player> <item>`
 
 ## Details
 * weapon names: knife, beretta, de, spas12, mp5, ump45, gl, lr300, g36, psg1, he, smoke, sr8, ak103, bomb, negev, m4, g18, colt, mac11
