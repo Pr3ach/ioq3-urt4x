@@ -17,6 +17,7 @@ ioQ3 engine modifications for Urban Terror 4.2.021.
 ### Cvars
 * `sv_infStamina <0|1>` Allow for infinite stamina.
 * `sv_infWalljumps <0|1>` Allow for infinite walljumps.
+* `sv_noRecoil <0|1>`
 
 ## Client
 
