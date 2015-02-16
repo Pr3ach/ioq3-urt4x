@@ -18,6 +18,7 @@ ioQ3 engine modifications for Urban Terror 4.2.021.
 * `sv_infStamina <0|1>` Allow for infinite stamina.
 * `sv_infWalljumps <0|1>` Allow for infinite walljumps.
 * `sv_noRecoil <0|1>`
+* `sv_showKickMsg <0|1>` Enable/disable showing kick reason to every players.
 
 ## Client
 
