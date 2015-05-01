@@ -20,7 +20,7 @@ ioQ3 engine modifications for Urban Terror 4.2.023.
 * `sv_stamina <0|1|2>` 0 = normal, 1 = insta-regen, 2 = infinite.
 * `sv_infWalljumps <0|1>` Allow for infinite walljumps.
 * `sv_noRecoil <0|1>` Enable/disable weapon recoil.
-* `sv_verbose <0|1>` Enable/disable message to everyone on some actions (eg. radio disabled)
+* `sv_verbose <0|1>` Enable/disable message to a client on some actions (eg. radio disabled)
 * `sv_allowRadio <0|1>` Allow/disallow the use of radio.
 * `sv_allowJoin <0|1>` Allow/disallow joining red/blue from spec/free.
 * `sv_allowSpec <0|1>` Allow/disallow joining spec.
@@ -32,14 +32,16 @@ ioQ3 engine modifications for Urban Terror 4.2.023.
 * `sv_minTeamHealth <0-100>` Disallow team switching when your health is below.
 * `sv_hideCmd <0|1>` Enable/disable hiding cmds (for bot etc.).
 * `sv_rmKnife <0|1>` Allow/disallow knife.
+* `sv_fallDamage <0|1>` Enable/disable fall damage.
+* `sv_slickSurface <0|1>` Enable/disable slick map surface (icy).
+* `sv_collision <0|1>` Enable/disable player collisions.
 
 
 ## Client
 
 ## Details
 * weapon names: knife, beretta, de, spas12, mp5, ump45, gl, lr300, g36, psg1, he, smoke, sr8, ak103, bomb, negev, m4, g18, colt, mac11
-* item names: redflag, blueflag, neutralflag, vest, medkit, silencer, laser, helmet, bomb, ammo, c4
+* item names: redflag, blueflag, neutralflag, vest, medkit, silencer, laser, helmet, bomb, ammo, googles
 
 ## Support
 For anything else, see 'README' at the repo root. You can also report any bug or suggestions by simply opening an issue here.
-
